@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "methods": [
+        "get",
+        "head"
+      ],
+      "allowedRoles": [
+        "authenticated"
+      ]
+    }
+  ]
+}
